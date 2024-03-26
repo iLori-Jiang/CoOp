@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cd ../..
+# cd ../..
 
 # custom config
-DATA=/path/to/datasets
+DATA=/Data/CV_Proj
 TRAINER=CoCoOp
 # TRAINER=CoOp
 
